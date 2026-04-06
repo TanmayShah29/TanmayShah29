@@ -1,16 +1,17 @@
-## Hi there 👋
+Hey there 👋
+I'm Tanmay, a CS student from Gujarat, India.
+I build AI products — agents, RAG pipelines, medical AI. I learn by shipping things, breaking them, and figuring out why.
+Everything here is built by me. Some of it is broken. All of it is real.
 
-<!--
-**TanmayShah29/TanmayShah29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I'm working with
 
-Here are some ideas to get you started:
+LangChain, Groq, Supabase, pgvector, Inngest
+Next.js, TypeScript, TailwindCSS
+PyTorch, Hugging Face
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+A bit about me
+
+📹 Addicted to watching people build things on YouTube — it's basically how I learned half my stack
+🎥 YouTube rabbit holes at 2am are a core part of my learning process
+🤖 I use Claude Code and Gemini CLI — orchestrating AI tools is the skill
