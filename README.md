@@ -12,6 +12,6 @@ PyTorch, Hugging Face
 
 A bit about me
 
-📹 Addicted to watching people build things on YouTube — it's basically how I learned half my stack
-🎥 YouTube rabbit holes at 2am are a core part of my learning process
-🤖 I use Claude Code and Gemini CLI — orchestrating AI tools is the skill
+- Addicte to watching people build things on YouTube — it's basically how I learned half my stack
+- YouTube rabbit holes at 2am are a core part of my learning process
+- I use Claude Code and Gemini CLI — orchestrating AI tools is the skill
