@@ -1,5 +1,5 @@
 #  About Me:
- **I’m currently working on** advanced multi-agent systems, multimodal RAG pipelines, and AI productivity tools (like *NEXUS OS* and my *Trust-Gated Multi-Agent Research System*).<br><br> **I’m looking to collaborate on** open-source AI projects, agentic workflows (LangGraph/LangChain), and innovative LLM-powered applications.<br><br> **I’m looking for help with** optimizing vector databases for scale, advanced LLM latency reduction, and discovering exciting AI/ML engineering internships!<br><br>  **I’m currently learning** advanced orchestration with LangGraph, cross-modal retrieval techniques, and pushing the limits of local/edge AI deployment.<br><br>
+ **I’m currently working on** advanced multi-agent systems, multimodal RAG pipelines, and AI productivity tools.<br><br> **I’m looking to collaborate on** open-source AI projects, agentic workflows (LangGraph/LangChain), and innovative LLM-powered applications.<br><br> **I’m looking for help with** optimizing vector databases for scale, advanced LLM latency reduction, and discovering exciting AI/ML engineering internships!<br><br>  **I’m currently learning** advanced orchestration with LangGraph, cross-modal retrieval techniques, and pushing the limits of local/edge AI deployment.<br><br>
 
 
 ## 🌐 Socials:
