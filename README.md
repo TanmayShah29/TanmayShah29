@@ -11,4 +11,4 @@ Computer Engineering student (B.Tech 2027, Ahmedabad) building applied AI system
 
 **Working with:** Python · PyTorch · FastAPI · LangGraph · pgvector · TypeScript · Next.js · Docker
 
-[LinkedIn](https://www.linkedin.com/in/tanmay-shah-934aa7387) · [Email](mailto:tanmayshah2911@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/tanmayshah29) · [Email](mailto:tanmayshah2911@gmail.com)
